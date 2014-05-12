@@ -1,1 +1,225 @@
-Testing...
+
+GitHub Foundations Online Class
+
+* May 12, 2014
+
+* 09:30 to 12:30 EEST
+
+* Class notes short URL: http://bit.ly/githubturku2014
+
+* Polls: http://b.socrative.com Room: 31311
+
+## Instructors
+
+* Matthew McCullough (@matthewmccull)
+
+* Brent Beer (@brntbeer)
+
+## Links
+
+* Training homepage: http://training.github.com
+
+* Training kit: http://training.github.com/kit
+
+* Training Twitter handle: @githubtraining (Tweet us if you liked the class!)
+
+* Training/GitHub Educational Videos: http://youtube.com/githubguides
+
+* Facebook page: http://facebook.com/github
+
+* Technical support: https://github.com/contact
+
+## Resources
+
+* ProGit Book: http://git-scm.com/book
+
+* Desktop Clients: http://mac.github.com, http://windows.github.com
+
+* Platform independent client apps, command line: http://git-scm.com/
+
+* GitHub account signup: https://github.com/join
+
+## Topics
+
+* Git and your initial setup
+
+* Git configuration and its inheritance
+
+* Your first repository
+
+* Understanding and thinking in Git's three stages
+
+* Adding, committing, and diff-ing code changes
+
+* The Similarity Index; Moving, Renaming, and Removing files
+
+* Reviewing version history in Git
+
+* Strategies for efficiency (Aliases, Forking, Pull Requests)
+
+* Managing and using Git Remotes
+
+* Branching, Tagging, and Stashing
+
+* Merging, Rebasing, and managing conflicts (merge strategies)
+
+* Undoing your work with Git (amend)
+
+
+
+
+
+
+## Student GitHub Usernames
+
+(for collaboration practice)
+
+* brntbeer
+
+* matthewmccullough
+
+* teroyks
+
+* dreeri
+
+* mafelixs
+
+* reuski
+
+* Riissanen
+
+* jenssmeds
+
+* hvehmanen
+
+* timoutriainen
+
+* underdude
+
+* pietilat
+
+* mikee841
+
+* mxu69
+
+
+## Questions & Answers
+
+
+### QUESTION TOPIC
+
+Q: 
+
+What if I have an existing project and I want to put it under version control?
+
+A:
+
+Once inside of the repository, you can type `git init` to initialize it as a git repository locally on your computer.
+
+
+### QUESTION TOPIC
+
+Q:
+
+What’s an example of a long commit message for not a lot of code?
+
+A:
+
+One line of code, removing a stray ‘+’ sign: https://github.com/git/git/commit/e28dcdce137b6ce53343aec3a4eccc0cd6f294b5
+
+
+### QUESTION TOPIC
+
+Q:
+
+[Type your question here]
+
+A:
+
+[Instructor answer here]
+
+
+### QUESTION TOPIC
+
+Q:
+
+[Type your question here]
+
+A:
+
+[Instructor answer here]
+
+
+### QUESTION TOPIC
+
+Q:
+
+[Type your question here]
+
+A:
+
+[Instructor answer here]
+
+
+### QUESTION TOPIC
+
+Q:
+
+[Type your question here]
+
+A:
+
+[Instructor answer here]
+
+
+### QUESTION TOPIC
+
+Q:
+
+[Type your question here]
+
+A:
+
+[Instructor answer here]
+
+
+### QUESTION TOPIC
+
+Q:
+
+[Type your question here]
+
+A:
+
+[Instructor answer here]
+
+
+### QUESTION TOPIC
+
+Q:
+
+[Type your question here]
+
+A:
+
+[Instructor answer here]
+
+
+### QUESTION TOPIC
+
+Q:
+
+[Type your question here]
+
+A:
+
+[Instructor answer here]
+
+
+
+
+## Chat History
+
+
+<HISTORY>
+
